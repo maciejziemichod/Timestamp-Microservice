@@ -8,8 +8,8 @@ If the date string is **invalid** the api returns a JSON having the structure `{
 
 #### Example usage:
 
-- https://curse-arrow.glitch.me/api/timestamp/2015-12-25
-- https://curse-arrow.glitch.me/api/timestamp/1451001600000
+- https://savory-desert-salesman.glitch.me/api/timestamp/2015-12-25
+- https://savory-desert-salesman.glitch.me/api/timestamp/1451001600000
 
 #### Example output:
 
